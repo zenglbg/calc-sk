@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zenglbg/skChart.git"
+    "url": "git+https://github.com/zenglbg/calc-sk.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zenglbg/skChart/issues"
+    "url": "https://github.com/zenglbg/calc-sk/issues"
   },
-  "homepage": "https://github.com/zenglbg/skChart#readme",
+  "homepage": "https://github.com/zenglbg/calc-sk#readme",
   "devDependencies": {
     "typescript": "^4.3.5"
   }
