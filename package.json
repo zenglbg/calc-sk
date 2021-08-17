@@ -1,0 +1,24 @@
+{
+  "name": "skchart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bd": "rm -rf dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenglbg/skChart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenglbg/skChart/issues"
+  },
+  "homepage": "https://github.com/zenglbg/skChart#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
