@@ -1,3 +1,5 @@
-export function line() {
-  console.log(123);
-}
+export * from "./calcs/calcMa";
+export * from "./calcs/calcMACD"
+export * from "./calcs/calcKDJ"
+export * from "./calcs/calcBoll"
+export * from './calcs/BIAS'
