@@ -1,5 +1,5 @@
 
-export function calcRSI(dayCount: number,times: Array<number>, data: Array<number | string>) {
+export function RSI(dayCount: number,times: Array<number>, data: Array<number | string>) {
     var result = [];
     for (var i = 0, len = times.length; i < len; i++) {
       if (i < dayCount) {

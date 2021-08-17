@@ -50,7 +50,7 @@ import {MA} from './calcMa';
     return result;
   }
 
-  export function calcBOLL (dayCount: number,times: Array<number>, data: Array<number>) {
+  export function BOLL (dayCount: number,times: Array<number>, data: Array<number>) {
     var maData = MA(data, dayCount);
     var mdData = md(dayCount,times, data, maData);
     var mbData = MA( data, dayCount - 1);
